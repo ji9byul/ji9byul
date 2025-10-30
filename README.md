@@ -1,4 +1,4 @@
-[<img align="right" width="723" height="595" alt="Image" src="https://github.com/user-attachments/assets/ea3efb12-e86e-4c46-a0f4-55affd5f87ce" />](https://guns.lol/kasurich)
+[<img align="center" width="723" height="595" alt="Image" src="https://github.com/user-attachments/assets/ea3efb12-e86e-4c46-a0f4-55affd5f87ce" />](https://guns.lol/kasurich)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
